@@ -14,4 +14,3 @@ PART-3: make an API to receive data when you send country name as param, (data y
 
 PART-4: an API which will make an LLM call along with an prompt to generate an meaningfull summary, based on the data which you pass, which will be fetched from db before making an LLM call.
 
-if you guys have some questions/doubts we will take it in tomorrow's lecture, PART-4 will be done in tomorrow's lecture post we understand how to access groq.
